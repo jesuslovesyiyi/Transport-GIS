@@ -44,6 +44,7 @@ The final class requirement is project that applies the knowledge learned in the
 **Week 5: Graph Theory & Path analysis**  
 - Introduction to graph theory 1
 - Introduction to graph theory 2  
+> Exercise: Dijkstra's algorithm in action  
 
 **Week 6: Network science**  
 - Introduction to network science
