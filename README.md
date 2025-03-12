@@ -32,3 +32,17 @@ The final class requirement is project that applies the knowledge learned in the
 **Week 1: Introduction**
 - Introduction and course overview
 - Fundamentals of spatial modeling
+**Week 2: Getting to know network models**  
+- Python workshop (in preparation for lab assignments and applied project)
+- Network modeling: definition, representation, application
+**Week 3-4: Building network model**  
+- Building networks in GIS
+- Building networks using Python
+**Week 5: Graph Theory & Path analysis**  
+- Introduction to graph theory 1
+- Introduction to graph theory 2
+
+**Week 6: Network Science**  
+- Introduction to network science
+> Exercise: Creating isochrone maps with OSMnx  
+> Exercise: Network centrality  
