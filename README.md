@@ -22,10 +22,10 @@ ArcGIS Pro 2.x and ArcGIS Desktop 10.x and all available extensions are installe
 ## Evaluation
 The course will be structured as a combined lecture-lab course. You are expected to have read all assigned readings ahead of time and be prepared to actively participate in class discussions. Students will be evaluated on two sets of tasks: three lab projects and a final course project. The formal requirements of the class are as follows:  
 
-Three Lab Projects (45%):  
+_Three Lab Projects (45%):_  
 
 Through the completion of three lab assignments, students will gain first-hand knowledge of the use and operation of GIS and Python in transportation. For late submissions, a .5 point/day penalty will be applied.  
 
-Applied Project (15% Presentation, 40% Project paper):  
+_Applied Project (15% Presentation, 40% Project paper):_  
 
 The final class requirement is project that applies the knowledge learned in the class to a real-world problem. Students will be provided with full details of the project guidelines and expectations. Fifteen percent of the total course grade will be a formal presentation to the class. Please note that all written assignments (unless otherwise noted) are to be submitted through the “Assignments” tab. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system.  
