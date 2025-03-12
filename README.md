@@ -32,9 +32,11 @@ The final class requirement is project that applies the knowledge learned in the
 **Week 1: Introduction**
 - Introduction and course overview
 - Fundamentals of spatial modeling  
+
 **Week 2: Getting to know network models**  
 - Python workshop (in preparation for lab assignments and applied project)
 - Network modeling: definition, representation, application  
+
 **Week 3-4: Building network model**  
 - Building networks in GIS
 - Building networks using Python
