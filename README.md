@@ -39,12 +39,34 @@ The final class requirement is project that applies the knowledge learned in the
 
 **Week 3-4: Building network model**  
 - Building networks in GIS
-- Building networks using Python
+- Building networks using Python  
+
 **Week 5: Graph Theory & Path analysis**  
 - Introduction to graph theory 1
 - Introduction to graph theory 2  
 
-**Week 6: Network Science**  
+**Week 6: Network science**  
 - Introduction to network science
-> Exercise: Creating isochrone maps with OSMnx  
 > Exercise: Network centrality  
+
+**Week 7: Movement on the network**  
+- Creating service area using ArcPro
+> Exercise: Creating isochrone maps with OSMnx  
+
+**Week 8: The transportation problem**  
+- The transportation problem 1  
+- The transportation problem 2
+
+**Week 9-10: Mid-semester project check-in**  
+
+**Week 11: Location allocation**  
+- P median and location allocation
+> Exercise: Location allocation in ArcGIS Pro
+
+**Week 12: Network resilience**  
+- Network resilience and robustness
+
+**Week 13: Transportation and climate change** 
+- Impact of climate change on transportation networks
+
+**Week 14-15: Final project presentations**
