@@ -27,3 +27,8 @@ Through the completion of three lab assignments, students will gain first-hand k
 
 _Applied Project (15% Presentation, 40% Project paper):_  
 The final class requirement is project that applies the knowledge learned in the class to a real-world problem. Students will be provided with full details of the project guidelines and expectations. Fifteen percent of the total course grade will be a formal presentation to the class. Please note that all written assignments (unless otherwise noted) are to be submitted through the “Assignments” tab. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system.  
+
+## Course Schedule
+**Week 1: Introduction**
+- Introduction and course overview
+- Fundamentals of spatial modeling
